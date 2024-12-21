@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mario
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - ladder
+  - Player
+  - Background
+  - Bouncing
+  - Enemy
+  - Hazards
+  - Fire
+  - interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4254317925
+    locked: 0
+  - name: Water
+    uniqueID: 203398327
+    locked: 0
+  - name: Bouncing
+    uniqueID: 2531066829
+    locked: 0
+  - name: Platforms
+    uniqueID: 3757140389
+    locked: 0
+  - name: ladder
+    uniqueID: 2360842155
+    locked: 0
+  - name: Hazards
+    uniqueID: 2220022669
+    locked: 0
+  - name: fire
+    uniqueID: 2056487973
+    locked: 0
+  - name: interactable
+    uniqueID: 2754734383
+    locked: 0
+  - name: Enemy
+    uniqueID: 2227797131
+    locked: 0
+  - name: Player
+    uniqueID: 653493489
+    locked: 0
